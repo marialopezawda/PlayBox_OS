@@ -44,7 +44,7 @@ main {
     flex: 1;
 }
 .hero {
-    background: url('images/Que.jpg') no-repeat center center/cover;
+    background: url('Que.jpg') no-repeat center center/cover;
     height: 120vh; /* Hace que ocupe toda la altura de la ventana */
     display: flex; /* Utiliza Flexbox para centrar el contenido */
     flex-direction: column; /* Alinea el contenido en columnas */
